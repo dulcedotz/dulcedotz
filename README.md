@@ -1,5 +1,6 @@
-## Hi there 👋
-
+![image alt](https://github.com/dulcedotz/dulcedotz/blob/3a7e3cc9e137fe86cf5ef18c384f9066c04c33a6/Untitled879_20260314095333.png)
+![image alt](https://github.com/dulcedotz/dulcedotz/blob/3a7e3cc9e137fe86cf5ef18c384f9066c04c33a6/Untitled878_20260314094539.png)
+![image alt](https://github.com/dulcedotz/dulcedotz/blob/3a7e3cc9e137fe86cf5ef18c384f9066c04c33a6/Untitled879_20260314095322.png)
 <!--
 **dulcedotz/dulcedotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
